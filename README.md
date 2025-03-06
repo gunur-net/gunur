@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python with pandas, openxl, opencsv...
 - 💞️ I’m looking to collaborate on building cool functions for the website...
 - 📫 Email: matthew@gunur.net
-- 😄 Pronouns: We
 - ⚡ Fun fact: The Big Bang happened January 1st, 2024
 
 <!---
